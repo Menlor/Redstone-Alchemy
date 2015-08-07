@@ -1,0 +1,21 @@
+[
+{
+    "modid": "RedstoneAlchemy",
+    "name": "Redstone Alchemy",
+    "description": "The Redstone Alchemy mod.",
+    "version": "0.1",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        ""
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependancies": [
+    ]
+}
+]
